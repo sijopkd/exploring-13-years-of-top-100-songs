@@ -1,5 +1,5 @@
 # Exploring 13 Years of Hot 100 Songs
-## *What do the top 100 billboard songs have in common? *
+## *What do the top 100 billboard songs have in common?*
 
 ![Image description](hot_100.jpg) <br />
 
