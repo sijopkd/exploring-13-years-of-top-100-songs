@@ -9,12 +9,12 @@ Billboard is an American entertainment media brand and is well-known for its mus
 ## Approach
 
 1) Data Source:
-  - The year end list was scraped from the billboard wesbite
-  - For each of the song and artist, the lyrics of each of the songs were scraped from Genius API 
+    - The year end list was scraped from the billboard wesbite
+    - For each of the song and artist, the lyrics of each of the songs were scraped from Genius API 
   
 2) Data preprocessing
-  - Text Cleaning
-  - TF-IDF vectorization
+    - Text Cleaning
+    - TF-IDF vectorization
   
 3) Analysis 
     - Topic modelling using Latent Dirichlet Allocation 
