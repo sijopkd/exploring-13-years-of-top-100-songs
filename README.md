@@ -17,11 +17,11 @@ Billboard is an American entertainment media brand and is well-known for its mus
   - TF-IDF vectorization
   
 3) Analysis 
-  - Topic modelling using Latent Dirichlet Allocation 
-  - Sentimental Analysis 
-  - K-Means Clustering 
-  - Recommendation System using cosine similarity
-  - Engagement (top 25 or not) Prediction using Logistic Regression 
+    - Topic modelling using Latent Dirichlet Allocation 
+    - Sentimental Analysis 
+    - K-Means Clustering 
+    - Recommendation System using cosine similarity
+    - Engagement (top 25 or not) Prediction using Logistic Regression 
 
 ## Results 
 
